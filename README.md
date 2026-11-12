@@ -27,7 +27,7 @@
 ## 60 秒跑起来
 
 ```bash
-git clone https://github.com/LINZIQI24GITHUB/finansi-a-share-backtest.git
+git clone https://github.com/ryanlzq/finansi-a-share-backtest.git
 cd finansi-a-share-backtest
 pip install -r requirements.txt
 
@@ -118,7 +118,7 @@ Windows：
 
 ```powershell
 New-Item -ItemType Directory -Force "$HOME\.agents\skills" | Out-Null
-git clone https://github.com/LINZIQI24GITHUB/finansi-a-share-backtest.git "$HOME\.agents\skills\finansi-a-share-backtest"
+git clone https://github.com/ryanlzq/finansi-a-share-backtest.git "$HOME\.agents\skills\finansi-a-share-backtest"
 cd "$HOME\.agents\skills\finansi-a-share-backtest"
 pip install -r requirements.txt
 ```
